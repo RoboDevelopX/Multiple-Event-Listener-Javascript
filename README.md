@@ -6,9 +6,7 @@ The following is a good test of keeping track of the answers the person selected
 it also make use of one event listener to get the specific id for a button instead of having 4 event listeners
 per button reducing the code needed to do it and it is done in javascript without any jquery
 
-https://www.kirupa.com/html5/handling_events_for_many_elements.htm 
-
-an example of the code from the link
+an example of the code
 
 <p>var theParent = document.querySelector("#theDude");</p>
 <p>theParent.addEventListener("click", doSomething, false);</p>
